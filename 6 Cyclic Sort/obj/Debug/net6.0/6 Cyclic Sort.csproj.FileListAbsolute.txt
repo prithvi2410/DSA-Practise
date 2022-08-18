@@ -1,0 +1,15 @@
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\bin\Debug\net6.0\6 Cyclic Sort.exe
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\bin\Debug\net6.0\6 Cyclic Sort.deps.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\bin\Debug\net6.0\6 Cyclic Sort.runtimeconfig.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\bin\Debug\net6.0\6 Cyclic Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\bin\Debug\net6.0\6 Cyclic Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.csproj.AssemblyReference.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.AssemblyInfoInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.AssemblyInfo.cs
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.csproj.CoreCompileInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\refint\6 Cyclic Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\6 Cyclic Sort.genruntimeconfig.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\6 Cyclic Sort\obj\Debug\net6.0\ref\6 Cyclic Sort.dll

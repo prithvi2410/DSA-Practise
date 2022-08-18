@@ -1,0 +1,15 @@
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\bin\Debug\net6.0\4 Selection Sort.exe
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\bin\Debug\net6.0\4 Selection Sort.deps.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\bin\Debug\net6.0\4 Selection Sort.runtimeconfig.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\bin\Debug\net6.0\4 Selection Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\bin\Debug\net6.0\4 Selection Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.csproj.AssemblyReference.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.AssemblyInfoInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.AssemblyInfo.cs
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\refint\4 Selection Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\4 Selection Sort.genruntimeconfig.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\4 Selection Sort\obj\Debug\net6.0\ref\4 Selection Sort.dll

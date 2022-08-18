@@ -1,0 +1,15 @@
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\bin\Debug\net6.0\5 Insertion Sort.exe
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\bin\Debug\net6.0\5 Insertion Sort.deps.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\bin\Debug\net6.0\5 Insertion Sort.runtimeconfig.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\bin\Debug\net6.0\5 Insertion Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\bin\Debug\net6.0\5 Insertion Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.AssemblyInfo.cs
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\refint\5 Insertion Sort.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\5 Insertion Sort.genruntimeconfig.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\5 Insertion Sort\obj\Debug\net6.0\ref\5 Insertion Sort.dll
