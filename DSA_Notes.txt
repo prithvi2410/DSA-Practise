@@ -1,0 +1,166 @@
+
+**********************************************************            DSA - KUNAL KUSHWAHA 		***************************************************
+
+DAY 1 : 00-07-22
+------
+Linear Search :
+---------------
+	Best Case   : O(1)
+	Worst Case  : O(n)
+	Find No.Of Digits : String.Length,Math.Log10()+1
+
+Problems @ Leet
+---------------
+	1295 E,1672 E
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 2 : 27-07-22
+------
+Binary Search :
+---------------
+	Best Case   : O(1)
+	Worst Case  : O(log n)
+	Find middle element, ( target > middle*changes based on accending and desending ) ? search right : search right , if middle == traget....ans
+		Middle element : start+end / 2
+		If RHS side : new start=mid+1
+		If LHS side : new end=mid-1 
+
+	Best way to find middle element : ( start + (end - start) ) / 2 
+		cuz in traditional way (start + end) / 2 the sum may exceed the data type range and cause error**
+
+	The rules are Visevera for desending order.
+	
+	Compare arr[start]<arr[end] for order and keep a boolean flag.
+	
+	using BS in un-sorted list gives un expected results
+	
+	List has an inbuilt BS method
+
+Problems @ Leet
+---------------
+
+	if the give array is sorted then apply BS blindly
+	704 E, **35 E, 268, 744, 34, 852 ,162, 1095(HARD)
+
+
+***Pivot of an array( aka Peak)
+---------------------------
+	[3,4,5,6,7,0,1,2] - Either a mountain array or it might be rotated array
+
+	How to find Peak or Pivot?
+	---------------------------
+		Start = 0 	End = 7		Mid =3
+
+		(arr[Mid] > arr[Mid+1]) or (arr[Mid] < arr[Mid-1]) => this is the point where asc flow turns to desc flow
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 3 : 08-08-22
+------
+Bubble Sort aka Sinking sort or Exchange sort:
+-----------------------------------------------
+	Best Case   : O(n)
+	Worst Case  : O(n2)
+	Compare next element and swap if it is smaller(i < i+1)
+	when same values present and it's order is maintained its -> Stable Sorted Algorithm
+
+Problems @ Leet
+----------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Selection sort:
+-----------------------------------------------
+	Best Case   : O(n2)
+	Worst Case  : O(n2)
+	Find the Largest element of array and swap it to correct(LAST INDEX) index
+	after every pass -> last= last - i th pass
+
+Problems @ Leet
+----------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Insertion sort:
+-----------------------------------------------
+	Best Case   : O(n)
+	Worst Case  : O(n2)
+	sort i+1 index for every i pass
+	more faster than bubble sort since some steps are reduced
+	more suitable when array is partially sorted****
+
+
+Problems @ Leet
+----------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cyclic sort:
+----------------------
+	Best Case   : O(n)
+	Worst Case  : O(n)
+	It is only applicable when the give array is in range of 1 to N [1,2,3,4,5,6,7,8,9,10...] sequential
+	just run one loop and compare the index position with the value : eg = if the value is 4 its index must be 3 if not swap it	
+
+
+Problems @ Leet
+----------------
+	When ever you see '1 to n' in question just go for cyclic sort
+	268E, 448E ,287M ,442M, 645E
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+18/08/22
+
+String and String Builder
+--------------------------
+
+Strings are immuatable
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+22/08/22
+
+Recursion - Part 1
+--------------------
+	1. Can solve complex problems in simple way.
+
+	2. It takes more space complexity because of reccursive calls in stack.
+Approach
+--------
+	1. Idnetify if you can break down the problem into smaller portion	
+	2. write recursive relation if needed
+	3. Draw the recursive tree
+	4. Identify the flow of tree(left and right)
+	5. use pen and paper to get a better understanding
+	6. find the base condition.
+	7. Determine return type and make sure you return for recurrsive call.
+	8. parameters to be passed(benifitial for future calls)
+	9. variables inside the method body(not benifitial for future calls).
+
+Recurrence Relations Types
+--------------------------
+	1. Linear Releation 	-  Fibinoci Number (in this way the reccursive call method's parameter are subtracted or added. !!! some parts of recurrsive tree will be repeated)
+
+	2. Divide and Conquer 	-  Binary Search (in this way the reccursive call method's parameter is divided, so it is much faster than linear relation)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+22/08/22
+
+Time and Space Complexity
+--------------------------
+
+	Time Complexity
+	----------------
+		1. Time Complexity != Time Taken 
+		2. Tells us how time is going to grow as the input grows
+
+
+
+
+
+
+
+
+
+
+
+
