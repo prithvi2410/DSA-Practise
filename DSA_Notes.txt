@@ -1,5 +1,5 @@
 
-**********************************************************            DSA - KUNAL KUSHWAHA 		***************************************************
+**********************************************************        DSA - KUNAL KUSHWAHA - YT 	    *******************************************************
 
 DAY 1 : 00-07-22
 ------
@@ -151,16 +151,97 @@ Time and Space Complexity
 	Time Complexity
 	----------------
 		1. Time Complexity != Time Taken 
-		2. Tells us how time is going to grow as the input grows
+		2. Tells us how time is going to grow as the input grows.
+		3. Look for worst case complexity
+		4. do not care about constants in complexity
+		5. always ignore less domination terms -> ( N3 + log(N) ) here log(N) is less dominating so you can eliminate that.
+		6. O(1) < O(log(N)) < O(N) < O(N pow 2) < O(2 pow N) .... (refer growth hierarchy)
+		
+	Types of Notation 
+	-----------------
+		1. Big 	  O      Notation - Worst Case   (Upper bound)
+		2. Little O      Notation - Worst Case   (slower than Big O)
+		3. Big    Omega  Notation - Best Case    (Lower bound)
+		4. Little Omega  Notation - Best Case    (slower than Big Omega)
+		5. Big    Theta  Notation - Average Case
+
+	Space Complexity
+	----------------
+		1. Space Complexity = Input space + Auxillary space 
+		2. Auxillary space is a extra space taken by you algorithm (creating a temp array for example)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+29/08/22
+
+Maths For DSA
+-------------
 
 
+	BitWise Operator
+	----------------
+	1. AND operator -> only if all inputs are 1(True) then the output is 1(True) -> if you use AND with any input and 1 the output is 1.
+	2. OR  operator -> if any input is 1(True) the output is 1(True).
+	3. XOR operator -> only one of the input is true then output is true
+						if Input XOR 1 		= Complement of Input
+						if Input XOR 0 		= Input
+						if Input XOR Input	= 0
+	4. Complement Operator -> gives the opposite of input
 
+		Number System
+		-------------
+	
+		Base 10 -> Decimal system ie: Normal number system we use
+		Base 02 -> Binary ie: 0's & 1's
+		Base 16 -> Hexa Decimal
 
+		Convertion
+		-----------
+		1. Decimal to Any Base	-> keep dividing input by base,take the remainder and write in opposite
+		----------------------
+			16 to binary -> 
+				16/2 -> rem 0
+				08/2 -> rem 0
+				04/2 -> rem 0
+				02/2 -> rem 0
+				01/2 ->	rem 1
 
+			Output 	     -> 10000
 
+		2. Base to Any Decimal 	-> Multiply each digit with base pow digit and sum it up
+		-----------------------
+				(10000)2 to decimal
+				= 0*2pow0 + 0*2pow1 + 0*2pow2 + 0*2pow3 + 1*2pow4
+				= 0 + 0 + 0 + 0 + 16
+				= 16.
 
+	5. LEFT SHIFT Operator -> Shifts one binary to left of given input(adds) -> if A << B => answer would be { A + (2 pow B) }
+	----------------------
+	
+	6. RIGHT SHIFT Operator -> Shifts one binary to right of given input(removes) -> if A >> B => answer would be { A / (2 pow B) }
+	----------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+	Problem Tricks
+	---------------
+	
+	Q1 : Odd or Even without modulo operator(ie: using Bitwise)
+	------------------------------------------------------------
+		step 1 : convert given base to binary
+		step 2 : if last digit is 1 => number is odd else its even
+	Ex:
+	---
+		19 -> 1 0 0 1 1
+		last digit is 1 so its odd number : input AND 1 => 1
 
+		14 -> 0 1 1 1 0
+		last digit is 0 so its even number : input AND 1 => 0
+	
+	**#**	This last digit is aka Least Significant Bit(LSB)	
+	
+	Q1 : find unique number from an array
+	-------------------------------------
+		array = [2,5,6,4,4,2,5]
+	
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

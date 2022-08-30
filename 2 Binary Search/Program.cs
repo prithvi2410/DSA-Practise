@@ -36,6 +36,7 @@
 
         while (Start <= End)
         {
+
             int Middle = (Start + End) / 2;
             if (array[Middle] == target)
                 return Middle;

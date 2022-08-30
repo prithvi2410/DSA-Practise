@@ -1,0 +1,15 @@
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\bin\Debug\net6.0\1 BitWise Operator.exe
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\bin\Debug\net6.0\1 BitWise Operator.deps.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\bin\Debug\net6.0\1 BitWise Operator.runtimeconfig.json
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\bin\Debug\net6.0\1 BitWise Operator.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\bin\Debug\net6.0\1 BitWise Operator.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.csproj.AssemblyReference.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.AssemblyInfoInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.AssemblyInfo.cs
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.csproj.CoreCompileInputs.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\refint\1 BitWise Operator.dll
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.pdb
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\1 BitWise Operator.genruntimeconfig.cache
+C:\Users\prithvi.palani\Documents\DSA-Practise\8 Math For DSA\1 BitWise Operator\obj\Debug\net6.0\ref\1 BitWise Operator.dll
