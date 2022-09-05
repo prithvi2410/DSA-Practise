@@ -173,21 +173,22 @@ Time and Space Complexity
 29/08/22
 
 Maths For DSA
--------------
+--------------
 
 
 	BitWise Operator
-	----------------
-	1. AND operator -> only if all inputs are 1(True) then the output is 1(True) -> if you use AND with any input and 1 the output is 1.
-	2. OR  operator -> if any input is 1(True) the output is 1(True).
-	3. XOR operator -> only one of the input is true then output is true
+	-----------------
+	1. AND operator 	-> only if all inputs are 1(True) then the output is 1(True) -> if you use AND with any input and 1 the output is 1.
+	2. OR  operator 	-> if any input is 1(True) the output is 1(True).
+	3. XOR operator 	-> only one of the input is true then output is true
 						if Input XOR 1 		= Complement of Input
 						if Input XOR 0 		= Input
 						if Input XOR Input	= 0
-	4. Complement Operator -> gives the opposite of input
+		
+	4. Complement Operator 	-> gives the opposite of input
 
 		Number System
-		-------------
+		--------------
 	
 		Base 10 -> Decimal system ie: Normal number system we use
 		Base 02 -> Binary ie: 0's & 1's
@@ -230,16 +231,81 @@ Maths For DSA
 	Ex:
 	---
 		19 -> 1 0 0 1 1
+		1  -> 0 0 0 0 1
 		last digit is 1 so its odd number : input AND 1 => 1
 
 		14 -> 0 1 1 1 0
+		1  -> 0 0 0 0 1
 		last digit is 0 so its even number : input AND 1 => 0
 	
 	**#**	This last digit is aka Least Significant Bit(LSB)	
 	
-	Q1 : find unique number from an array
+	Q2 : find unique number from an array
 	-------------------------------------
 		array = [2,5,6,4,4,2,5]
+
+	Q3: Set Bit  (Right Most)
+	--------------------------
+		Set bit is a bit postion where 1 occurs first it can either be from right or left
+		
+		example:
+		--------
+			Right Set Bit for 1 0 1 1 0 1 0 0
+						    ^
+         Negative Numbers in Binary
+	----------------------------
+
+		1 byte = 8 bit
+		so for example 10 in 1 byte is represented as -> 0 0 0 0 1 0 1 0
+								 M	     S L
+		M -> Most  Significant Bit
+		L -> Least Significant Bit
+		S -> Set   Significant Bit
+
+		****Here MSB decides the number is positve or negative
+
+
+	How to convert -ve to +ve and vice versa
+	-----------------------------------------
+		10 = 0 0 0 0 1 0 1 0 
+	
+	Step 1 : Take a Complement of input 
+	--------
+		0 0 0 0 1 0 1 0 -> 1 1 1 1 0 1 0 1
+	
+	Step 2 : Add 1 to the Complement 
+	--------
+		 1 1 1 1 0 1 0 1
+	      +  0 0 0 0 0 0 0 1
+		-----------------
+  		 1 1 1 1 0 1 1 0
+		-----------------
+	Q4 : Is Power of 2
+	-------------------
+		If the input's binary representation contains only one bit of 1 the it is a power of two
+	
+		2 -> 0 0 0 0 1 0
+		4 -> 0 0 0 1 0 0 
+		5 -> 0 0 0 1 0 1 -> here it has tow bits of 1 so its not a power of two
+
+	Step 1 : 
+	--------
+		AND input with 1 -> we will get LSB either 1 or 0
+	Step 2 : 
+	--------
+		Take a counter and count number of 1's
+	Step 3 : 
+	--------
+		Right shift the number by one to remove LSB
+	Step 4 : 
+	--------
+		Repeat this while the number is not equal to 0, and after the loop if 1's count is more than 1 then its not a power of two
+			
+				OR
+			      ------
+
+	******** Just use Shortcut Algorithm => n & (n-1) == 0 -> it power of two
+	
 	
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
